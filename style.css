@@ -1,0 +1,79 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap'); */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    /* height: 100%; */
+    background-size: 100%;
+    background-position-y: -160px;
+    background-position-x: 1.5rem;
+    background-image: url(/img/background.jpg);
+    
+}
+
+main {
+    margin-top: 24%;
+    background-color: white;
+    height: 24rem;
+    width: 22rem;
+    padding: 2rem;
+}
+
+.fra {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.5rem;
+    color: #3b8acf;
+    margin-bottom: -60px;
+}
+
+.line {
+    color: #d3e6f4;
+    /* background-color: #d3e6f4; */
+}
+
+.fran {
+    display: flex;
+    justify-content: space-between;
+    /* padding-bottom: -1rem; */
+    color: #c6cbd1;
+    font-size: small;
+}
+#con, .one, {
+    margin-right: 50px;
+}
+.fli {
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    color: #c6cbd1;
+}
+
+.eight {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30px;
+}
+
+.pass {
+    display: flex;
+    justify-content: space-between;
+}
+
+.scan {
+    height: 8rem;
+}
+
+.passe {
+    font-size: small;
+    color: #c6cbd1;
+}
+
+.Robert {
+    margin-top: -10px;
+}
