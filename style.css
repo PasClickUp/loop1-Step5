@@ -43,9 +43,10 @@ main {
     color: #c6cbd1;
     font-size: small;
 }
-#con, .one, {
-    margin-right: 50px;
-}
+
+/* #con, .one, { */
+/* margin-right: 50px; */
+/* } */
 .fli {
     display: flex;
     justify-content: space-between;
